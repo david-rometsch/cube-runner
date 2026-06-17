@@ -2,6 +2,9 @@
 ## About
 This game was produced to provide a joyful way to train memorizing corners for 3BLD.
 
+
+![](docs/cube-runner.png)
+
 ## How to play
 ### Goal
 - Press **Start Game** to begin
