@@ -1,0 +1,13 @@
+Library/
+Temp/
+Logs/
+UserSettings/
+Build/
+My project_BurstDebugInformation_DoNotShip/
+cube-runner-v1_Data/
+cube-runner-v1.x86_64
+UnityPlayer.so
+libdecor-0.so.0
+libdecor-cairo.so
+*.sln
+*.csproj
