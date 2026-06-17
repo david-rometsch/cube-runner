@@ -13,10 +13,10 @@ This game was produced to provide a joyful way to train memorizing corners for 3
  
 ### Speffsz-Lettering
 
-![](Pasted image 20260617213136.png)
+![](docs/speffsy.png)
 The surface facing up stands for the letter to remember. 
 
-![](Pasted image 20260617213347.png)
+![](docs/corner.png)
 In this example the relevant letter would be "n". If the white side was facing up it would be "B"
 
 ## Links
