@@ -11,3 +11,4 @@ libdecor-0.so.0
 libdecor-cairo.so
 *.sln
 *.csproj
+.idea/
